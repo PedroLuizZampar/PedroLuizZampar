@@ -5,7 +5,7 @@ Sou um entusiasta da tecnologia, apaixonado por inteligência artificial, aprend
 ## Sobre Mim
 
 - 🎓 Formado Técnico em Desenvolvimento de Sistemas pelo Colégio Estadual Doutor Gastão Vidigal
-- 💻 Atualmente trabalhando na área de tecnologia, como Tester
+- 💻 Atualmente trabalhando na área de tecnologia, como programador
 - 🚀 Liderando e colaborando em projetos de IA e desenvolvimento de software
 - 📚 Sempre buscando aprender e compartilhar conhecimento
 - 📖 Apaixonado pro livros
@@ -14,9 +14,9 @@ Sou um entusiasta da tecnologia, apaixonado por inteligência artificial, aprend
 
 ## Principais Tecnologias e Ferramentas
 
-- 🤖 Linguagens de programação: Python, Java, JavaScript, SQL Server
+- 🤖 Linguagens de programação: Python, Java, JavaScript, C#
 - 🧠 Frameworks de IA: TensorFlow, PyTorch
-- 🛠️ Outras ferramentas: Git, Google Colab
+- 🛠️ Outras ferramentas: Git, Google Colab, MySQL, SQL Server
 
 ## Projetos Destacados
 
@@ -34,17 +34,3 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato se quis
 ![Imagem inspiradora](https://i.pinimg.com/236x/27/56/c4/2756c425feb61e55c0e8dbcdc9618edb.jpg)
 
 </div>
-<!--
-**PedroLuizZampar/PedroLuizZampar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
